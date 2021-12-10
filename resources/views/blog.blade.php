@@ -14,7 +14,7 @@
                 </div>
                 <div class="card-body">
                     <h1>{{ $title }}</h1>
-                    <h2>{{ $description }}</h2>
+                    <p>{{ $description }}</p>
                 </div>
             </div>
         </div>
